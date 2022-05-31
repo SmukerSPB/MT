@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="appframework">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/JFormDesigner-7.0.5.1-intellij-idea/JFormDesigner/lib/appframework.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/JFormDesigner-7.0.5.1-intellij-idea/JFormDesigner/lib/beansbinding.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/JFormDesigner-7.0.5.1-intellij-idea/JFormDesigner/lib/imgscalr.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/JFormDesigner-7.0.5.1-intellij-idea/JFormDesigner/lib/intellij_forms_rt.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/JFormDesigner-7.0.5.1-intellij-idea/JFormDesigner/lib/JFormDesigner-Idea.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/JFormDesigner-7.0.5.1-intellij-idea/JFormDesigner/lib/jgoodies-common.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/JFormDesigner-7.0.5.1-intellij-idea/JFormDesigner/lib/jgoodies-forms.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/JFormDesigner-7.0.5.1-intellij-idea/JFormDesigner/lib/miglayout-core.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/JFormDesigner-7.0.5.1-intellij-idea/JFormDesigner/lib/miglayout-ideutil.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/JFormDesigner-7.0.5.1-intellij-idea/JFormDesigner/lib/miglayout-swing.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/JFormDesigner-7.0.5.1-intellij-idea/JFormDesigner/lib/swing-layout.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/JFormDesigner-7.0.5.1-intellij-idea/JFormDesigner/lib/TableLayout.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
